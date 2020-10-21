@@ -1,19 +1,8 @@
 ---
 
-classes:
-    - "scpnet-interwiki-wrapper"
-    - "international-block"
-    - "media"
-    - "resources"
-    - "mobile-top-bar"
-    - "license-area"
-
-ids:
-    - "footer-bar"
-    - "footer"
-
-links:
-    - "javascript:;"
-    - "#"
+links_re:
+    - "archive-*i*$"
+    - "^/system:"
+    - "^/forum[/:]"
 
 ...
