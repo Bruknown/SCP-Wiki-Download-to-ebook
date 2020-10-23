@@ -1,0 +1,24 @@
+---
+
+blacklists:
+    links_re:
+        - "^\/$"
+        - "^\/featured.*archive-*i*$"
+        - "^\/(archived-)?news$"
+        - "^\/system:"
+        - "^\/forum[/:]"
+        - "^\/links$"
+        - "^\/faq$"
+        - "^\/(?:chat-|deletions-)?guide(?:-hub|-for-newbies)?$"
+        - "^\/sandbox$"
+        - "^\/usertools$"
+        - "^\/tag-search$"
+        - "^\/site-rules$"
+        - "random:"
+        - "^\/contribute$"
+
+whitelists:
+    links:
+        - ""
+
+...

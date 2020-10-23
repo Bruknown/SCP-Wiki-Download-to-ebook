@@ -1,8 +1,0 @@
----
-
-links_re:
-    - "archive-*i*$"
-    - "^/system:"
-    - "^/forum[/:]"
-
-...
